@@ -1,0 +1,76 @@
+.carousel-item{
+    max-height: 670px;
+}
+.carousel-item img{
+    max-height: 670px;
+}
+body{
+    overflow-x: hidden;
+}
+#button-call {
+    width: 20%;
+    min-width: 170px;
+}
+#intro-text1 {
+    position: absolute;
+    margin-left:10%;
+    margin-top:10%;
+    color:white;
+    font-weight: bold;
+}
+.line{
+    border-bottom: 2px solid #ffc107; /* Параметры линии */ 
+    padding: 10px;
+}
+.card {
+    box-shadow: 5px 5px 1px #ffc107;
+    border: 0;
+    text-align: center;
+}
+.card-title {
+    padding: 10px;
+}
+#projects .projects {
+    margin-bottom: 15px;
+}
+#projects {
+    margin-top: 30px;
+}
+#contact {
+    text-align: center;
+    background-color: #ffc107;
+    color: black;
+}
+#contact h1{
+    text-align: center;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:visited {
+    color: black;
+   }
+a:active {
+    color:black;
+}
+.bkg {
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.8)), url(img/yellow-5.jpg) fixed center center;
+    padding: 80px 80px;
+}
+.feedback {
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.8)), url(img/light-2.jpg) fixed center center;
+    padding: 80px 80px;
+}
+#phonenumber{
+    max-width: 300px;
+    height: 50px;
+}
+.size {
+    font-size: 22px;
+}
+#btn-a{
+    text-decoration: none !important;
+    color:black !important;
+}
